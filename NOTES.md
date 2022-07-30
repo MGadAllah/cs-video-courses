@@ -5,7 +5,7 @@
 - If available, please add following information to the link - &lt;Course-Number&gt; &lt;Course-Name&gt; &lt;Year&gt; &lt;Prof Name&gt; &lt;University Name/Platform&gt;.
 - If you are bored reading above 10 lines, imagine reading descriptions for hundreds of courses :)
 - If You need assistance in deciding order in which courses should be taken, please refer to sample Course prerequisite charts by Universities to familiarize yourself with standard CS curriculum. If you need to know prerequisites for a particular course not covered by below samples, please check the course link or try Google.
-  - [MIT Curriculum Guide](https://ocw.mit.edu/courses/mit-curriculum-guide/)
+  - [MIT Curriculum Guide]([https://ocw.mit.edu/courses/mit-curriculum-guide/](https://ocw.aprende.org/courses/mit-curriculum-guide/))
   - [MIT New (Fall 2016) Degree Requirements](https://www.eecs.mit.edu/curriculum2016)
   - [Stanford Current CS Program Sheets](http://csmajor.stanford.edu/ProgramSheets.shtml)
   - [UMN Computer Science Course Prerequisite Chart](https://www.cs.umn.edu/sites/cs.umn.edu/files/cseprerequisite_chart.pdf)
